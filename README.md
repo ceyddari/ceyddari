@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=50&color=FFFFFF&center=true&vCenter=true&width=700&lines=java;spring+boot;sql;python;machine+learning;ai;c%23;.net)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=50&color=FFFFFF&center=true&vCenter=true&width=700&lines=java;spring+boot;sql;python;machine+learning;artificial+intelligence;c%23;.net)](https://git.io/typing-svg)
 
 ---
 
