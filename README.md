@@ -1,13 +1,14 @@
-# Hi there 👋
+<!-- Animasyonlu giriş (typing effect) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=java;spring+boot;sql;python;machine+learning;ai;c%23;.net)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ceydanur+Duman;Computer+Engineering+Graduate;Backend+Developer;AI+Enthusiast)](https://git.io/typing-svg)
+---
 
 # Hi, I'm Ceydanur Duman 
 
 _Computer Engineering Graduate | Backend Developer | AI Enthusiast_  
 
 ---
-![wave](https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=120&section=footer)
+
 ## About Me  
 Hello! I'm **Ceydanur Duman**, a Computer Engineering graduate from Düzce University.   
 I am interested in **backend development and artificial intelligence projects**.  
@@ -26,6 +27,13 @@ I am improving myself in **Java and Spring Boot** and developing projects.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📈 GitHub Stats  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=tokyonight)  
 
 ---
 
