@@ -1,5 +1,5 @@
-<!-- Animasyonlu giriş (typing effect) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=java;spring+boot;sql;python;machine+learning;ai;c%23;.net)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&lines=java;spring+boot;sql;python;machine+learning;ai;c%23;.net)](https://git.io/typing-svg)
 
 ---
 
