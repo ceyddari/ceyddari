@@ -1,17 +1,17 @@
-# Hi, I'm [Ceydanur Duman] 👋  
+# Hi, I'm Ceydanur Duman 
 
 _Computer Engineering Graduate | Backend Developer | AI Enthusiast_  
 
 ---
 
-## 🚀 Hakkımda  
-Merhaba! Ben **[Ceydanur Duman]**, Düzce Üniversitesi Bilgisayar Mühendisliği mezunuyum.   
-**Backend geliştirme ve yapay zeka projeleri** ile ilgileniyorum.  
-**Java ve Spring Boot** ile backend kısmında kendimi geliştirip projeler geliştiriyorum. 
+## About Me  
+Hello! I'm **Ceydanur Duman**, a Computer Engineering graduate from Düzce University.   
+I am interested in **backend development and artificial intelligence projects**.  
+I am improving myself in **Java and Spring Boot** and developing projects.  
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler  
+## Technologies I Use  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -23,18 +23,16 @@ Merhaba! Ben **[Ceydanur Duman]**, Düzce Üniversitesi Bilgisayar Mühendisliğ
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 ---
 
-
-## 📈 GitHub İstatistikleri  
+## 📈 GitHub Stats  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=tokyonight)  
 
 ---
 
-## 📫 Bana Ulaşın  
+## 📫 Contact Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ceydanur-duman)  
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ceydanurduman6@gmail.com)  
