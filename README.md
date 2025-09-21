@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ceydanur DUMAN 
 
-<!--
-**ceyddari/ceyddari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I’m currently learning **Spring Boot, AI**  
+ Interested in **Backend Development** and **Artificial Intelligence**  
+ How to reach me: [LinkedIn]( www.linkedin.com/in/ceydanur-duman) | [Email](ceydanurduman6@gmail.com)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔗 Languages & Tools:
+![Python]
+![Java]
+![C#]
+
+---
+
+
