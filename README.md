@@ -25,13 +25,6 @@ I am improving myself in **Java and Spring Boot** and developing projects.
 
 ---
 
-## 📈 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=tokyonight)  
-
----
-
 ## 📫 Contact Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceydanur-duman)  
