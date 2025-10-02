@@ -12,7 +12,7 @@ _Computer Engineering Graduate | Backend Developer | AI Enthusiast_
 ## About Me  
 Hello! I'm **Ceydanur Duman**, a Computer Engineering graduate from Düzce University.   
 I am interested in **backend development and artificial intelligence projects**.  
-I am improving myself in **Java development and Python development** and developing projects.  
+I am improving myself in **Java development & Python development** and developing projects.  
 
 ---
 
