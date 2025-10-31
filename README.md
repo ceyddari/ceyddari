@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=50&color=FFFFFF&center=true&vCenter=true&width=700&lines=java;python;sql;machine+learning;artificial+intelligence;c%23;.net)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=50&color=FFFFFF&center=true&vCenter=true&width=700&lines=python;java;sql;machine+learning;artificial+intelligence;c%23;.net)](https://git.io/typing-svg)
 
 ---
 
@@ -12,14 +12,13 @@ _Computer Engineering Graduate | Backend Developer | AI Enthusiast_
 ## About Me  
 Hello! I'm **Ceydanur Duman**, a Computer Engineering graduate from Düzce University.   
 I am interested in **backend development and artificial intelligence projects**.  
-I am improving myself in **Java development & Python development** and developing projects.  
 
 ---
 
 ## Technologies I Use  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
