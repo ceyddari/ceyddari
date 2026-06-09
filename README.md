@@ -28,13 +28,6 @@ I am interested in artificial intelligence, machine learning projects with pytho
 
 </div>
 
----
-
-### 🌱 Currently
-
-- 📚 Learning: **Typescript, React**
-
----
 
 ### 📫 Let's Connect
 
@@ -44,15 +37,6 @@ I am interested in artificial intelligence, machine learning projects with pytho
 
 </div>
 
----
-
-### ✍️ Blog & Content
-
----
-
-### 💖 Support My Work
-
----
 
 <div align="center">
 
