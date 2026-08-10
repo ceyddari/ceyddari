@@ -18,16 +18,11 @@ I am interested in artificial intelligence, machine learning projects with pytho
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceyddari&show_icons=true&theme=tokyonight" alt="Ceydanur's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ceyddari&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceyddari&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-</div>
 
 
 ### 📫 Let's Connect
