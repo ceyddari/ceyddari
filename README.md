@@ -20,12 +20,13 @@ I am interested in artificial intelligence, machine learning projects with pytho
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ceyddari&show_icons=true&theme=tokyonight" alt="Ceydanur's GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceyddari&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceyddari&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceyddari&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 </div>
 
 
