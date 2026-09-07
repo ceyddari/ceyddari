@@ -2,11 +2,15 @@
 
 <div align="center">
 
-### Full Stack Developer | İstanbul, Türkiye
+Software Developer | Python • AI • Machine Learning
 
-Hello! I'm Ceydanur Duman, a Computer Engineering graduate from Düzce University.
-I am currently working as a full-stack developer at a company, focusing on React and TypeScript. 
-I am interested in artificial intelligence, machine learning projects with python.
+Hi, I'm Ceydanur! 👋
+I'm a Computer Engineering graduate and Software Developer based in Istanbul.
+
+• Currently focused on Python, Artificial Intelligence & Machine Learning
+• Building and exploring AI/ML and LLM-based applications
+• Professional experience with React, TypeScript, NestJS & PostgreSQL
+• Working toward a career focused on AI-powered software development
 
 </div>
 
