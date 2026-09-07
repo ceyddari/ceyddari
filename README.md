@@ -4,13 +4,17 @@
 
 ### Software Developer | Python • AI • Machine Learning
 
-Hi, I'm Ceydanur! 👋  
+<p>
+Hi, I'm Ceydanur! 👋<br>
 I'm a Computer Engineering graduate and Software Developer based in Istanbul.
+</p>
 
-- Currently focused on **Python, Artificial Intelligence & Machine Learning**
-- Building and exploring **AI/ML, RAG & LLM-based applications**
-- Professional experience with **React, TypeScript, NestJS & PostgreSQL**
-- Working toward a career focused on **Python and AI-powered software development**
+<p>
+• Currently focused on <b>Python, Artificial Intelligence & Machine Learning</b><br>
+• Building and exploring <b>AI/ML, RAG & LLM-based applications</b><br>
+• Professional experience with <b>React, TypeScript, NestJS & PostgreSQL</b><br>
+• Working toward a career focused on <b>Python and AI-powered software development</b>
+</p>
 
 </div>
 
