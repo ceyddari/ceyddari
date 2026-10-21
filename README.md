@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Software Developer | Python • AI • Machine Learning
+### Software Developer | Python • AI • Typescript
 
 <p>
 Hi, I'm Ceydanur! 👋<br>
