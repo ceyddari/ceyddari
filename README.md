@@ -1,49 +1,112 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Ceydanur%20Duman&fontSize=50&fontColor=fff&animation=fadeIn)
-
 <div align="center">
 
-### Software Developer | Python • AI • Typescript
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=220&section=header&text=Ceydanur%20Duman&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descSize=17&descAlignY=55"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Building+things+with+code;Exploring+Artificial+Intelligence;Learning.+Creating.+Evolving." />
+</a>
+
+<br><br>
 
 <p>
-Hi, I'm Ceydanur! 👋<br>
-I'm a Computer Engineering graduate and Software Developer based in Istanbul.
-</p>
-
-<p>
-• Currently focused on <b>Python, Artificial Intelligence & Machine Learning</b><br>
-• Building and exploring <b>AI/ML, RAG & LLM-based applications</b><br>
-• Professional experience with <b>React, TypeScript, NestJS & PostgreSQL</b><br>
-• Working toward a career focused on <b>Python and AI-powered software development</b>
+  <a href="https://github.com/ceyddari">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ceydanur-duman">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ceydanurduman6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-### 💻 Tech Stack
+### About Me
 
-![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![postgresql](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![machine learning](https://img.shields.io/badge/machine%20learning-333?style=for-the-badge&logo=machinelearning&logoColor=white)
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Ceydanur Duman"
+        self.role = "Software Developer"
+        self.location = "Istanbul, Türkiye"
+
+        self.experience = [
+            "Python Development"
+            "React",
+            "TypeScript",
+            "NestJS",
+            "PostgreSQL"
+        ]
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "LLMs & RAG"
+        ]
+
+    def current_mission(self):
+        return "Building software while exploring AI."
+```
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ceyddari&theme=tokyonight" />
-</p>
-
-
-### 📫 Let's Connect
+### Tech Universe
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceydanurduman6@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ceydanur-duman) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ceyddari)
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs&theme=dark" />
+
+<br><br>
+
+**Frontend & Backend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs&theme=dark" />
+
+<br><br>
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,vscode&theme=dark" />
 
 </div>
 
+---
+
+### Currently Exploring
+
+```text
+Artificial Intelligence
+    ├── Machine Learning
+    ├── Large Language Models
+    ├── Retrieval-Augmented Generation
+    └── AI-Powered Applications
+```
+
+---
+
+### GitHub Activity
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceyddari&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=ceyddari&theme=github-dark-blue&hide_border=true" height="165"/>
+
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
+---
+
+<div align="center">
+
+### Let's Build Something Interesting
+
+*Always curious. Always learning.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=100&section=footer"/>
+
+</div>
