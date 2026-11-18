@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Ceydanur 👋
+# Hey, I'm Ceyda 👋
 
 ### Software Developer · AI Enthusiast
 
