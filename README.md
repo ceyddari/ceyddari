@@ -8,9 +8,6 @@
 
 <br>
 
-<a href="https://github.com/ceyddari">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/ceydanur-duman">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
@@ -24,11 +21,14 @@
 
 ## About Me
 
+
 I'm a **Software Developer** and Computer Engineering graduate based in Istanbul, Türkiye.
 
-I enjoy building software, exploring new technologies, and understanding how things work under the hood.
+I primarily work with **Python**, while professionally developing full-stack applications using **TypeScript, React, NestJS, and PostgreSQL**.
 
-My interests are centered around **Artificial Intelligence, Machine Learning, and LLM-powered applications**, alongside full-stack software development.
+I'm particularly interested in **Artificial Intelligence and Machine Learning**, focusing on **LLMs, RAG, and AI-powered applications**.
+
+I enjoy exploring new technologies, building things, and continuously growing as a developer.
 
 <br>
 
