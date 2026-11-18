@@ -1,109 +1,88 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=220&section=header&text=Ceydanur%20Duman&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descSize=17&descAlignY=55"/>
+# Hey, I'm Ceydanur 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Building+things+with+code;Exploring+Artificial+Intelligence;Learning.+Creating.+Evolving." />
+### Software Developer · AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=460&lines=Curious+about+how+things+work.;Building+software+%26+exploring+AI.;Always+learning+something+new." alt="Typing animation" />
+
+<br>
+
+<a href="https://github.com/ceyddari">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
-
-<br><br>
-
-<p>
-  <a href="https://www.linkedin.com/in/ceydanur-duman">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ceydanurduman6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/ceydanur-duman">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ceydanurduman6@gmail.com">
+  <img src="https://img.shields.io/badge/Email-A78BFA?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
----
+<br>
 
-### About Me
+## About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Ceydanur Duman"
-        self.role = "Software Developer"
-        self.location = "Istanbul, Türkiye"
+I'm a **Software Developer** and Computer Engineering graduate based in Istanbul, Türkiye.
 
-        self.experience = [
-            "Python Development"
-            "React",
-            "TypeScript",
-            "NestJS",
-            "PostgreSQL"
-        ]
+I enjoy building software, exploring new technologies, and understanding how things work under the hood.
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "LLMs & RAG"
-        ]
+My interests are centered around **Artificial Intelligence, Machine Learning, and LLM-powered applications**, alongside full-stack software development.
 
-    def current_mission(self):
-        return "Building software while exploring AI."
-```
+<br>
 
----
-
-### Tech Universe
+## Tech Stack
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,cs&theme=dark" alt="Programming languages" />
 
 <br><br>
 
 **Frontend & Backend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs&theme=dark" alt="Frontend and backend technologies" />
 
 <br><br>
 
-**Databases & Tools**
+**Database & Tools**
 
-<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,github,vscode&theme=dark" alt="Databases and development tools" />
 
 </div>
 
----
+<br>
 
-### Currently Exploring
+## Currently Exploring
 
 ```text
-Artificial Intelligence
-    ├── Machine Learning
-    ├── Large Language Models
-    ├── Retrieval-Augmented Generation
-    └── AI-Powered Applications
+AI & Software Engineering
+│
+├── Machine Learning
+├── Large Language Models
+├── Retrieval-Augmented Generation
+└── AI-Powered Applications
 ```
 
----
+<br>
 
-### GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceyddari&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=ceyddari&theme=github-dark-blue&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceyddari&layout=compact&theme=transparent&title_color=A78BFA&text_color=8B949E&hide_border=true" alt="Most used languages" />
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-### Let's Build Something Interesting
-
-*Always curious. Always learning.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=100&section=footer"/>
+<sub>✦ Curious by nature. Engineer by choice. ✦</sub>
 
 </div>
